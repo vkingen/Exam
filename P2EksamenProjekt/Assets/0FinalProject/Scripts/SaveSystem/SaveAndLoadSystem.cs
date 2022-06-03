@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
+
 // This script has taken inspiration from : https://www.youtube.com/watch?v=XOjd_qU2Ido
 public static class SaveAndLoadSystem
 {
